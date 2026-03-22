@@ -1,25 +1,13 @@
-# Projeto *Analytics YouTube*
-
-## Problema Abordado
-
-**Análise quantitativa dos vídeos em alta no YouTube por país.**
-
-## Motivação
-
-Diante da crescente demanda por melhor visualização de dados, a nossa motivação tem base em fazer uma amostragem de dados gerais sobre esses vídeos com foco em suas propriedades (*views*, comentários, *likes*, etc).
-
-## Ferramentas Utilizadas e por quê
-
-- *Python*: utilizado para carregamento, visualização e preparação para a amostragem dos dados em formato apropriado
-- *Matplotlib*: utilizada para criação de gráficos
-- *Streamlit*: utilizada para aplicação interativa com filtro e opções de escolha
-
-## Principais resultados obtidos
-
-Os principais resultados obtidos foram a **melhor visualização da cultura de cada país no tocante a vídeos e conteúdo** e **o melhor entendimento acerca da difusão do consumo do YouTube entre as diversas categorias** (comédia, entretenimento, política, etc).
-
-## Justificativa do uso de dados
-
-Os dados utilizados foram extensas tabelas CSV que possuem propriedades diversas (colunas) sobre os mais diversos vídeos em alta do YouTube por país. Diante de suas extensões e do problema de volume de memória, foi necessário utilizar **carregamento de dados com cache** para otimização em notebooks e outros dispositivos.
-
-
+# Project *Analytics YouTube*
+## Problem Addressed
+**Quantitative analysis of trending YouTube videos by country.**
+## Motivation
+Given the growing demand for better data visualization, our motivation is based on sampling general data about these videos with a focus on their properties (*views*, comments, *likes*, etc).
+## Tools Used and Why
+- *Python*: used for loading, visualization and preparation for sampling data in appropriate format
+- *Matplotlib*: used for creating graphics
+- *Streamlit*: used for interactive application with filter and choice options
+## Main Results Obtained
+The main results obtained were the **better visualization of the culture of each country regarding videos and content** and **the better understanding of the spread of YouTube consumption among the different categories** (comedy, entertainment, politics, etc).
+## Justification for Data Use
+The data used were extensive CSV tables that have diverse properties (columns) about the most diverse trending YouTube videos by country. Given their extensions and the memory volume problem, it was necessary to use **data loading with cache** for optimization in notebooks and other devices.
